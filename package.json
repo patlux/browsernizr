@@ -1,6 +1,6 @@
 {
   "name": "browsernizr",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Modernizr wrapper for use with browserify",
   "main": "index.js",
   "repository": "https://github.com/jnordberg/browsernizr",
@@ -10,7 +10,7 @@
     "browserify"
   ],
   "devDependencies": {
-    "Modernizr": "git://github.com/Modernizr/Modernizr.git",
+    "modernizr": "git://github.com/Modernizr/Modernizr.git",
     "nodefy": "git://github.com/jnordberg/nodefy.git",
     "shelljs": "^0.5.3"
   },
